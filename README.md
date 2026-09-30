@@ -56,6 +56,11 @@ The project acronym T.I.N. [Thermal Diamond Integration Network] establishes a s
 
 ---
 
+
+
+
+---
+
 # Совершенство в несовершенстве
 ### "Наши грязные алмазы будут сиять блеском чистого разума."
 
