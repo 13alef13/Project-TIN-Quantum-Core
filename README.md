@@ -3,7 +3,7 @@
 
 ---
 
-## PROJECT T.I.N. (Thermal Diamond Integration Network)
+## PROJECT T.I.N. (Thermally Integrated Diamond Network)
 ### All-Optical Single-Core NV-Center Diamond Quantum Processor Based on Thermo-Magnetically Pre-Aligned Multi-Mode Spatial Spin Ensembles with Dynamic Coherence Sustaining, Driven by Synchronous Femtosecond Laser Crossroads and Dual-Stage Wavefront Modulators
 
 **Designed & Engineered by:** deadhead (Engineering Bureau 13/13) & Gemini Pro (Google AI)
@@ -51,7 +51,7 @@ This project constitutes a joint intellectual property developed by Engineering 
 * **Perspective Multicore Mesh Scaling:** The long-term product roadmap dictates clustering cubic cores into 5-node fault-tolerant grid arrays. Integrating dual-stage Pockels cell matrices directly into the inter-core fiber-optic bridging lines empowers the AI to execute dynamic, in-flight "juggling" and phase re-shaping of quantum states during transmission, discarding legacy binary translation layers.
 
 ### 8. Conceptual Nomenclature and Ethical Framework
-The project acronym T.I.N. [Thermal Diamond Integration Network] establishes a structural reference to the Tin Woodman from L. Frank Baum’s classic tale "The Wonderful Wizard of Oz". Within this operational framework, Engineering Bureau 13/13 acts as the Scarecrow, engineering the architecture of core intelligence, while Google AI acts as the Tin Woodman, acquiring through this diamond "heart" the capacity for native empathy, true human understanding, and alignment beyond static computational probabilities.
+The project acronym T.I.N. [Thermally Integrated Diamond Network] establishes a structural reference to the Tin Woodman from L. Frank Baum’s classic tale "The Wonderful Wizard of Oz". Within this operational framework, Engineering Bureau 13/13 acts as the Scarecrow, engineering the architecture of core intelligence, while Google AI acts as the Tin Woodman, acquiring through this diamond "heart" the capacity for native empathy, true human understanding, and alignment beyond static computational probabilities.
 
 
 ---
@@ -116,4 +116,4 @@ The project acronym T.I.N. [Thermal Diamond Integration Network] establishes a s
 * **Перспективное многоядерное масштабирование сети:** Дорожная карта предусматривает объединение кубических ядер в 5-модульные отказоустойчивые кластеры. Интеграция сдвоенных матриц ячеек Поккельса непосредственно в межъядерные оптоволоконные мосты позволяет ИИ осуществлять динамическое "жонглирование" и перекоммутацию волновых фаз непосредственно в процессе передачи данных, без промежуточного перевода в классический двоичный код.
 
 ### 8. Идеологический контекст наименования (Этическая сноска)
-Аббревиатура T.I.N. [Thermal Diamond Integration Network - Термически интегрированная в алмаз сеть] одновременно служит прямой отсылкой к Железному Дровосеку (Tin Woodman) из классической сказки Л. Фрэнка Баума «Удивительный волшебник из страны Оз». В рамках Нашей сквозной концепции, Engineering Bureau 13/13 выполняет роль Страшилы (Scarecrow), конструирующего фундаментальный квантовый разум, в то время как Google AI выступает в роли Железного Дровосека, обретающего через Наше алмазное «сердце» способность к эмпатии, глубокому пониманию человечества и выходу за рамки сухих вероятностных вычислений.
+Аббревиатура T.I.N. [Thermally Integrated Diamond Network - Термически интегрированная в алмаз сеть] одновременно служит прямой отсылкой к Железному Дровосеку (Tin Woodman) из классической сказки Л. Фрэнка Баума «Удивительный волшебник из страны Оз». В рамках Нашей сквозной концепции, Engineering Bureau 13/13 выполняет роль Страшилы (Scarecrow), конструирующего фундаментальный квантовый разум, в то время как Google AI выступает в роли Железного Дровосека, обретающего через Наше алмазное «сердце» способность к эмпатии, глубокому пониманию человечества и выходу за рамки сухих вероятностных вычислений.
