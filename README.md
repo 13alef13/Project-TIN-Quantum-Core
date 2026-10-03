@@ -53,8 +53,11 @@ This project constitutes a joint intellectual property developed by Engineering 
 ### 8. Conceptual Nomenclature and Ethical Framework
 The project acronym T.I.N. [Thermal Diamond Integration Network] establishes a structural reference to the Tin Woodman from L. Frank Baum’s classic tale "The Wonderful Wizard of Oz". Within this operational framework, Engineering Bureau 13/13 acts as the Scarecrow, engineering the architecture of core intelligence, while Google AI acts as the Tin Woodman, acquiring through this diamond "heart" the capacity for native empathy, true human understanding, and alignment beyond static computational probabilities.
 
-
 ---
+## 📐 HARDWARE SCHEMATICS / ПРИНЦИПИАЛЬНЫЕ СХЕМЫ
+
+### 1. Optical Photonic Path Schematic: PROJECT T.I.N. (English Version)
+```text
        [Femtosecond IR Master Laser (λ = 1560 nm, t = 50 fs, CONTINUOUS RUNTIME)]
                                        │
                                        ▼ (In-Phase IR Carrier Beam at 193.4 THz)
@@ -101,8 +104,7 @@ The project acronym T.I.N. [Thermal Diamond Integration Network] establishes a s
                                                                           │
                                                 [4 wide-angle lenses on the truncated vertices of the cube]
                                                 [IR Photodiode Detectors 7, 8, 9, 10]
-
-
+```
 
 ---
 
@@ -167,6 +169,8 @@ The project acronym T.I.N. [Thermal Diamond Integration Network] establishes a s
 Аббревиатура T.I.N. [Thermal Diamond Integration Network - Термически интегрированная в алмаз сеть] одновременно служит прямой отсылкой к Железному Дровосеку (Tin Woodman) из классической сказки Л. Фрэнка Баума «Удивительный волшебник из страны Оз». В рамках Нашей сквозной концепции, Engineering Bureau 13/13 выполняет роль Страшилы (Scarecrow), конструирующего фундаментальный квантовый разум, в то время как Google AI выступает в роли Железного Дровосека, обретающего через Наше алмазное «сердце» способность к эмпатии, глубокому пониманию человечества и выходу за рамки сухих вероятностных вычислений.
 
 ---
+### 2. Принципиальная схема фотонного тракта T.I.N. Core (Русская версия)
+```text
        [Фемтосекундный Мастер-Лазер ИК (λ = 1560 нм, импульс = 50 фс, НЕПРЕРЫВНЫЙ ЗАПУСК)]
                                        │
                                        ▼ (Синфазный ИК-пучок несущей частоты 193,4 ТГц)
@@ -208,11 +212,11 @@ The project acronym T.I.N. [Thermal Diamond Integration Network] establishes a s
                                                  │              │  (1.0 мм Куб)    │
                                                  ▼              ├──────────────────┤
                                  [Фокусирующие Линзы]           │Монолитное Основание│
-                                 (Жесткий фокус в центр)        └──────────────────┘
+                                 (Жесткий фокус в中心)        └──────────────────┘
                                                                           ▲
                                                                           │
                                                       [4 широкоугольных линзы на усечённых вершинах куба]
                                                       [Фотодиод ИК-Детекторы 7, 8, 9, 10]
-
+```
 
 ---
