@@ -1,3 +1,6 @@
+# Due to recent changes in the project, the work posted here requires adjustment.
+---
+---
 # Perfection in Imperfection
 ### "Our "dirty" diamonds will shine with the brilliance of a pure mind."
 
